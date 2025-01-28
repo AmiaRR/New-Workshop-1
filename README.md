@@ -4,7 +4,7 @@ https://amiarr.github.io/Workshop-1/
 
 Workshop Notes: ![IMG_8165 2](https://github.com/user-attachments/assets/b901676c-7242-4044-88ad-b712fff80fad)
 
-For Workshop 1 I made a sketch using for and while loops, using the help of code from a youtube video https://www.youtube.com/watch?v=yLbWnCHY-io, and a ChatGPT prompt to help add additional shapes and to make the background change colour. 
+For Workshop 1 I made a sketch using for and while loops, using the help of code from a youtube video https://www.youtube.com/watch?v=yLbWnCHY-io, and a ChatGPT prompt to help add additional shapes and to make the background change colour. I could have improved this sketch by adding more shapes and adding colour to the shapes. 
 
 <img width="1465" alt="Screenshot 2025-01-20 at 10 53 14 PM" src="https://github.com/user-attachments/assets/be930cca-5908-44a1-81bf-7fe6372fb4af" />
 
